@@ -17,6 +17,7 @@ CONFIG_DROPBEAR_ECC_FULL=y
 CONFIG_DROPBEAR_ECC=y
 CONFIG_PACKAGE_luci-app-argon-config=y
 CONFIG_PACKAGE_luci-app-arpbind=y
+CONFIG_PACKAGE_luci-app-ddns=y
 CONFIG_PACKAGE_luci-app-filetransfer=y
 CONFIG_PACKAGE_luci-app-ssr-plus=y
 CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Hysteria=y
